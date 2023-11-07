@@ -5,11 +5,12 @@ Example QR Codes for Temelmat
 
 <img width="148" alt="Screenshot 2023-11-07 at 21 19 35" src="https://github.com/Frission/temelmat-qr-codes/assets/24462047/71e00cd9-6016-4d92-9677-92e86a6ac9bb">
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### Activity
